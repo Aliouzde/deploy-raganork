@@ -1,4 +1,4 @@
-{
+
     "name": "rgnk wabot",
     "description": "WhatsApp public/user bot",
     "logo": "",
@@ -41,14 +41,14 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"Raganork pack;Author name"
+            "value":"Raganork 亗•𝕭𝖗𝖚𝖓𝖔•▄︻̷̿┻̿═━一"
         },
         "CHATBOT": {
             "description": "AI chatbot",
             "required": true,
-            "value":"off"
+            "value":"on"
         },
-        "BOT_NAME": {
+        "BOT_NAME": king
             "description": "Name of AI chatbot",
             "required": true,
             "value":"Raganork"
